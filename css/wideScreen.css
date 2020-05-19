@@ -1,0 +1,25 @@
+/* Align Icon to the Left */
+#what .items .item {
+  display: flex;
+  text-align: left;
+}
+
+#what .items .item h3 {
+  margin-right: 1rem;
+}
+
+/* position icon */
+#what .items .item .icon {
+  margin-right: 1.3rem;
+  width: 160px;
+  height: 80px;
+}
+
+.container {
+  width: 100%;
+  overflow: visible;
+}
+
+#contact .map {
+  flex: 2;
+}
